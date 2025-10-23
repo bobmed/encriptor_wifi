@@ -1,5 +1,5 @@
 # encriptor_wifi
-ESP-12 is a project that allows you to decrypt a file with an HTML page encrypted using the AES-256 standard and display it
+ESP-12 project that allows you to decrypt a file with an HTML page encrypted using the AES-256 standard and display it
 
 ## Algorithm of actions
 * Connect to ESP-12 via Wi-Fi (the password and name are configured in the code)
